@@ -1,5 +1,4 @@
 # Customer-behaviour-analysis
-Hi #connections
 
 🚀 Excited to share my first project on machine learning classification using #Python, developed using #JupitorNotebook(IDE) 🤖💻
 
